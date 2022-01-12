@@ -9,8 +9,8 @@ namespace LogicalPrograms
                     //FibonacciSeries fibonacciSeries = new FibonacciSeries();
                     //fibonacciSeries.PrintFibonacciSeries();
 
-                    PerfectNumber perfectNumber = new PerfectNumber();
-                    perfectNumber.ChcekPerfectNumber();
+                    //PerfectNumber perfectNumber = new PerfectNumber();
+                    //perfectNumber.ChcekPerfectNumber();
                     
                     //PrimeNumber primeNumber = new PrimeNumber();
                     //primeNumber.CheckPrimeNumber();
