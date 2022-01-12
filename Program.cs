@@ -10,15 +10,16 @@ namespace LogicalPrograms
                     //fibonacciSeries.PrintFibonacciSeries();
 
                     //PerfectNumber perfectNumber = new PerfectNumber();
-                    //perfectNumber.ChcekPerfectNumber();
+                    //perfectNumber.CheckPerfectNumber();
                     
                     //PrimeNumber primeNumber = new PrimeNumber();
                     //primeNumber.CheckPrimeNumber();
                    
                     //ReverseNumber reverseNumber = new ReverseNumber();
                     //reverseNumber.FindReverseNumber();
-            //CouponNumber couponNumber = new CouponNumber();
-            //couponNumber.Calculation(N);
+            
+                    //CouponNumber couponNumber = new CouponNumber();
+                    //couponNumber.Calculation(N);
 
             bool flag = true;
             while (flag)
